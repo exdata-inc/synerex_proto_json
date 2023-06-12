@@ -1,6 +1,6 @@
 syntax = "proto3";
 
-package proto.json;
+package proto_json;
 
 option go_package="github.com/synerex/proto_json";
 
